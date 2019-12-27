@@ -16,4 +16,4 @@ All the information about our programming language named Easia The users:
   name of a variable can only start with a letter (capital or not) or an underscore and should be written in one 
   word. Shouldn't be one of the following key-word. Can contain numbers
 
-for more information please take the look at the specification file
+for more information please take the look at the documentation pdf 
