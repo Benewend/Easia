@@ -1,10 +1,10 @@
 
-Easia is supposed to be the easiest programming language. It was originaly implemented as final project 
-for a Principal of Programming Language class a DAUST. This repository will contained all the working 
-feature implemented so far  ...All kind of contribution suchas( advises on the implementation, pull request
-(that might or might not be accepted)…) are welcome. 
+Easia is supposed to be the easiest programming language. It was originally implemented as final project 
+for a Principal of Programming Language class at DAUST. This repository will contained all the working 
+feature implemented so far  ...All kind of contribution such as( advises on the implementation, pull request
+that might or might not be accepted…) are welcome. 
 So far only expressions(arithmetic) ,operation on string, when , for , as long as , statements respectively
-equivalent of if , for and while statement of c like languages are working :
+equivalent to if , for and while statement of c like languages are working :
 
 All the information about our programming language named Easia The users: 
   -Newbies, intro to programming 
@@ -16,4 +16,4 @@ All the information about our programming language named Easia The users:
   name of a variable can only start with a letter (capital or not) or an underscore and should be written in one 
   word. Shouldn't be one of the following key-word. Can contain numbers
 
-for more information please take the look at the documentation pdf 
+
